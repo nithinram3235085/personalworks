@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+}
+.main-body{
+    height: 660px;
+    width: 100%;
+    background: linear-gradient(#695aa6,white);
+}
+.work-1{
+    height: 250px;
+    width: 280px;
+    float: left;
+    background: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.logo{
+    height: 160px;
+    width: 270px;
+    margin-top: 40px;
+}
+.work-2{
+    height: 250px;
+    width: 280px;
+    float: left;
+    background: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.logo2{
+   height: 100px;
+   margin-left: 6px;
+   margin-top: 70px;
+}
+.link2{
+   height: 250px;
+   width: 280px;
+   float: left;
+}
